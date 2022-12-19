@@ -5,7 +5,12 @@
 - 📫 I'm from South Korea.
 - 🤔 I am the greatest happiest kindest [insert world's most big mountain] coder.
 
-<---
-chris-eleven0111/chris-eleven0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2 * 4
+3 * 3
+2 * 5
+10 + 1
+3 * 4
+5 + 6 + 1*2
+7 * 2
+7 * 2 + 1
+√ 256
